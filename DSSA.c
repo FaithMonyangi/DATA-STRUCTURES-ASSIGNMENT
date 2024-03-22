@@ -1,5 +1,7 @@
 //SCT221-0737/2022
 //FAITH MORARA MONYANGI
+//SCT221-0274/2022
+//FAITH ABURI
 #include <stdio.h>
 #include <stdlib.h>
 
